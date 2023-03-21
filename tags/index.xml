@@ -1,15 +1,34 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
-    <title>Tags on My Blog</title>
+    <title>Tags on Kallan&#39;s Surf Blog</title>
     <link>https://kallan.ca/tags/</link>
-    <description>Recent content in Tags on My Blog</description>
+    <description>Recent content in Tags on Kallan&#39;s Surf Blog</description>
     <image>
-      <title>My Blog</title>
+      <title>Kallan&#39;s Surf Blog</title>
       <url>https://kallan.ca/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
       <link>https://kallan.ca/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
     </image>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language><atom:link href="https://kallan.ca/tags/index.xml" rel="self" type="application/rss+xml" />
+    <language>en-us</language>
+    <lastBuildDate>Mon, 20 Mar 2023 22:57:04 +0530</lastBuildDate><atom:link href="https://kallan.ca/tags/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>blog</title>
+      <link>https://kallan.ca/tags/blog/</link>
+      <pubDate>Mon, 20 Mar 2023 22:57:04 +0530</pubDate>
+      
+      <guid>https://kallan.ca/tags/blog/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>surf</title>
+      <link>https://kallan.ca/tags/surf/</link>
+      <pubDate>Mon, 20 Mar 2023 22:57:04 +0530</pubDate>
+      
+      <guid>https://kallan.ca/tags/surf/</guid>
+      <description></description>
+    </item>
+    
   </channel>
 </rss>
