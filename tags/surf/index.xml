@@ -21,5 +21,14 @@
       <description>My First Blog post</description>
     </item>
     
+    <item>
+      <title>The worst surf</title>
+      <link>https://kallan.ca/blog/worst-surf/</link>
+      <pubDate>Mon, 20 Mar 2023 22:57:04 +0530</pubDate>
+      
+      <guid>https://kallan.ca/blog/worst-surf/</guid>
+      <description>The day I snapped my board</description>
+    </item>
+    
   </channel>
 </rss>
